@@ -1,0 +1,8 @@
+United Kingdom, London, 93628
+Switzerland, Bern, 15940
+Germany, Berlin, 137983
+Italy, Rome, 116347
+Ukraine, Kiev, 233062
+France, Paris, 248573
+Austria, Vienna, 32386
+Greece, Athens, 50949
